@@ -1,4 +1,5 @@
-# CRM-Sales-Analysis-
+
+
 
 # CRM Sales Analysis Project
 
@@ -14,6 +15,17 @@ The goal of this project is to practice converting real-world business problems 
 - Average deal closing time (Won vs Lost)
 - Monthly revenue trends
 - Repeat customer identification
+
+## Data Preparation
+Before running the analysis queries, the dataset was cleaned and standardized:
+- Removed NULL and blank values from key columns (e.g., `subsidiary_of`, `Prevailing_Wage`).
+- Filled missing values using median/mode where applicable.
+- Standardized product names (e.g., 'GTXPro' → 'GTX Pro').
+- Checked and removed duplicate records (e.g., duplicate `opportunity_id`).
+- Ensured date fields (`engage_date`, `close_date`) were properly formatted.
+
+This step ensures that the analysis queries produce accurate and reliable insights.
+
 
 ## Purpose
 This repository is created as part of my learning journey in data analysis and SQL. 
