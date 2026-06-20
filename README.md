@@ -1,6 +1,3 @@
-
-
-
 # CRM Sales Analysis Project
 
 This project contains SQL queries and analysis designed to extract business insights from a CRM sales dataset. 
