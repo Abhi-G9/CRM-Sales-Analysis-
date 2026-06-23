@@ -1,4 +1,4 @@
-# CRM Sales Analysis – Key Questions
+# CRM Sales Analysis –Business Problems
 
 1. What is the total combined company revenue for each client account?  
 2. What is the total number of deals, number of won deals, and the overall win percentage for each account across different office locations?  
